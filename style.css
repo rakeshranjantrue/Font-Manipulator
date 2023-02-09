@@ -1,0 +1,32 @@
+.heading{
+    color: 5px solid whitesmoke;
+    box-shadow: 3px 3px 3px rgb(0, 136, 255);
+    font-family: 'Yatra One', cursive;
+    font-weight: bolder;
+    font-size: 18px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    color: black;
+    font-family: 'Rakkas', cursive;
+    font-weight: 100;
+}
+.copyright_footer{
+    background-image: linear-gradient(lightgreen, #93E9BE, #9ACD32);
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    font-family: 'Kavoon', cursive;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    line-height: 3;
+    bottom: 0;
+}
+
+canvas
+   {
+       border: 5px solid greenyellow;
+       border-radius: 20px;
+       box-shadow: 10px 5px 5px seagreen
+   }
